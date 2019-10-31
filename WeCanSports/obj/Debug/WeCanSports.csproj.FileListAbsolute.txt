@@ -1,0 +1,64 @@
+J:\WeCanSports\WeCanSports\bin\Debug\WeCanSports.exe.config
+J:\WeCanSports\WeCanSports\bin\Debug\WeCanSports.exe
+J:\WeCanSports\WeCanSports\bin\Debug\WeCanSports.pdb
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.csprojAssemblyReference.cache
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.Properties.Resources.resources
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.csproj.GenerateResource.cache
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.csproj.CoreCompileInputs.cache
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.exe
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.pdb
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.MenuAdmin.resources
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.ProdutosESKUs.resources
+J:\WeCanSports\WeCanSports\bin\Debug\Newtonsoft.Json.dll
+J:\WeCanSports\WeCanSports\bin\Debug\Newtonsoft.Json.xml
+J:\WeCanSports\WeCanSports\obj\Debug\WeCanSports.csproj.CopyComplete
+H:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe.config
+H:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe
+H:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.pdb
+H:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.dll
+H:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.xml
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csprojAssemblyReference.cache
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.MenuAdmin.resources
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ProdutosESKUs.resources
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.Properties.Resources.resources
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.GenerateResource.cache
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CoreCompileInputs.cache
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CopyComplete
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.exe
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.pdb
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.EstoqueEArmazem.resources
+H:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ClientesEEnderecos.resources
+E:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe.config
+E:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe
+E:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.pdb
+E:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.dll
+E:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.xml
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csprojAssemblyReference.cache
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ClientesEEnderecos.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.EstoqueEArmazem.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.MenuAdmin.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.PedidosETransportadora.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ProdutosESKUs.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.Properties.Resources.resources
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.GenerateResource.cache
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CoreCompileInputs.cache
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CopyComplete
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.exe
+E:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.pdb
+J:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe.config
+J:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.exe
+J:\WeCanSports - Copia\WeCanSports\bin\Debug\WeCanSports.pdb
+J:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.dll
+J:\WeCanSports - Copia\WeCanSports\bin\Debug\Newtonsoft.Json.xml
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csprojAssemblyReference.cache
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ClientesEEnderecos.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.EstoqueEArmazem.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.MenuAdmin.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.PedidosETransportadora.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.ProdutosESKUs.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.Properties.Resources.resources
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.GenerateResource.cache
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CoreCompileInputs.cache
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.csproj.CopyComplete
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.exe
+J:\WeCanSports - Copia\WeCanSports\obj\Debug\WeCanSports.pdb
